@@ -1,4 +1,4 @@
-# PAMoC project in EMBEDDED SYSTEMS IN BIOMEDICINE uni course
+# PAMoC project
 
 For this course, we were asked to come up with an original idea to tackle a healthcare issue using embedded systems.
 Our solution was a wearable device that recognizes, deals with and reports panic attacks, P.A.Mo.C. (Panic Attack Monitor and Control).
